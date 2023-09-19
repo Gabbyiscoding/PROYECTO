@@ -1,0 +1,64 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,600&family=Kanit:wght@400;600&family=Montserrat:wght@200&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,600&family=Rubik:wght@500&display=swap');
+
+
+body {
+    font-family: 'Kanit', sans-serif;
+    overflow-x: hidden;
+    background-color: #c5e5e4;
+}
+
+header {
+    background-color: #ffd8a9;
+    color: #545454;
+    font-weight: bolder;
+}
+
+.carousel-inner {
+    max-height: 39rem;
+}
+
+#imagen1{
+    position: absolute;
+    top: 60%;
+    left: 65%;
+    transform: translate(-30%, -70%);
+    text-align: justify;
+}
+
+#imagen2{
+    color: #dc3545;
+    position: absolute;
+    top: 45%;
+    left: 35%;
+    transform: translate(-30%, -70%);
+}
+
+#imagen3{
+    color: #ffc107;
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-30%, -70%);
+    text-align: justify;
+}
+
+#imagen4{
+    color: #ffffff;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-30%, -70%);
+    text-align: justify;
+}
+
+#imagen5{
+    color: #000000;
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    transform: translate(-30%, -70%);
+    text-align: justify;
+}
